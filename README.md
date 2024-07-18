@@ -29,7 +29,7 @@ my introduction start
  
 <p align="center">
   <a href="https://github.com/YS-zdck" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=YS-zdck&title_color=333&text_color=777" alt="YS-zdck's Stats" >
+    <img src="https://avatars.githubusercontent.com/u/169510121?v=4" alt="YS-zdck's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=YS-zdck&hide=issues&title_color=333&text_color=777" alt="YS-zdck's Stats" >
     -->
