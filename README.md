@@ -5,7 +5,7 @@
 </a>
  
 ## Hi, 👋  I'm <a href="https://www.mi65.cn"> YS </a>
- 
+ <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://www.mi65.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
@@ -19,7 +19,7 @@
 - 💬 Be free to ask me about anything [here](https://github.com/YS-zdck/YS-zdck/issues).
  
 ---
-</details>
+</details> -->
   
   ✨ 站主目前为上班狗 业余时间学习代码。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
  
