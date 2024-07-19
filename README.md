@@ -1,5 +1,5 @@
 
-<h1 align="center"> <a href="https://www.mi65.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);YS 祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://www.mi65.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);YS%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/YS-zdck/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=YS-zdck&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
